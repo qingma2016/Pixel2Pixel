@@ -29,9 +29,9 @@ Our experiments are done with:
 ## Citations
 
   @article{ma2025pixel2pixel,<br>
-  title={Pixel2Pixel: A Pixelwise Approach for Zero-Shot Single Image Denoising},
-  author={Ma, Qing and Jiang, Junjun and Zhou, Xiong and Liang, Pengwei and Liu, Xianming and Ma, Jiayi},
-  journal={IEEE Transactions on Pattern Analysis and Machine Intelligence},
-  year={2025},
-  publisher={IEEE}
+  title={Pixel2Pixel: A Pixelwise Approach for Zero-Shot Single Image Denoising},<br>
+  author={Ma, Qing and Jiang, Junjun and Zhou, Xiong and Liang, Pengwei and Liu, Xianming and Ma, Jiayi},<br>
+  journal={IEEE Transactions on Pattern Analysis and Machine Intelligence},<br>
+  year={2025},<br>
+  publisher={IEEE}<br>
 }
