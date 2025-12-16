@@ -26,7 +26,7 @@ Our experiments are done with:
 
 * For evaluation on real-world images, run ``Pixel2Pixel_real.py``
 
-  ## Citations
+## Citations
 
   @article{ma2025pixel2pixel,
   title={Pixel2Pixel: A Pixelwise Approach for Zero-Shot Single Image Denoising},
