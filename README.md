@@ -24,4 +24,14 @@ Our experiments are done with:
 
 * For evaluation on synthetic noise, run ``Pixel2Pixel_syn.py`` 
 
-* For evaluation on real-world images, run ``Pixel2Pixel_real.py`` 
+* For evaluation on real-world images, run ``Pixel2Pixel_real.py``
+
+  ## Citations
+
+  @article{ma2025pixel2pixel,
+  title={Pixel2Pixel: A Pixelwise Approach for Zero-Shot Single Image Denoising},
+  author={Ma, Qing and Jiang, Junjun and Zhou, Xiong and Liang, Pengwei and Liu, Xianming and Ma, Jiayi},
+  journal={IEEE Transactions on Pattern Analysis and Machine Intelligence},
+  year={2025},
+  publisher={IEEE}
+}
